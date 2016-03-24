@@ -1,0 +1,31 @@
+﻿<Page x:Class="DependencyAnalyzerUI.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Unloaded="Window_Unloaded"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+	Title="Page1">
+
+    <Grid>
+        <Grid.Resources>
+        </Grid.Resources>
+        <TabControl  TabStripPlacement="Top" HorizontalAlignment="Left" Height="183" Margin="10,10,0,0" VerticalAlignment="Top" Width="280">
+            <TabItem Header="Input  ">
+                <Grid Background="#FFE5E5E5" Margin="0,-1,0,-39" >
+                    <Label Content="Available Servers" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Sever1" HorizontalAlignment="Left" Margin="10,31,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Server2" HorizontalAlignment="Left" Margin="10,78,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.211,0.115"/>
+                    <Button x:Name="Server1_CnctBtn" Content="Connect" HorizontalAlignment="Left" Margin="11,53,0,0" VerticalAlignment="Top" Width="44" Click="Server1_CnctBtn_Click"/>
+                    <Button x:Name="Server2_CnctBtn" Content="Connect" HorizontalAlignment="Left" Margin="15,109,0,0" VerticalAlignment="Top" Width="44" Click="Server2_CnctBtn_Click"/>
+                    <ListBox x:Name="LB_ProjectsList" HorizontalAlignment="Left" Height="100" Margin="76,41,0,0" VerticalAlignment="Top" Width="80"/>
+                    <Button Content="Button" HorizontalAlignment="Left" Margin="175,53,0,0" VerticalAlignment="Top" Width="75"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="TabItem">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Page>

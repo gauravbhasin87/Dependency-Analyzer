@@ -1,0 +1,42 @@
+﻿<Window x:Class="CodeAnalysis.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Client GUI" Height="381.5" Width="575.5">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="330" Margin="10,10,0,0" VerticalAlignment="Top" Width="549">
+            <TabItem Header="Servers">
+                <Grid Background="#FFE5E5E5">
+                    <Label Content="Server 1" Background="AliceBlue" HorizontalAlignment="Left" Margin="22,56,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Available Servers: " Background="Beige" HorizontalAlignment="Left" Margin="22,15,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Server 2" Background="AliceBlue" HorizontalAlignment="Left" Margin="22,100,0,0" VerticalAlignment="Top" Width="53"/>
+                    <Button x:Name="ConnectServer1" Click="Connect1" Content="Connect Server 1" HorizontalAlignment="Left" Margin="98,52,0,0" VerticalAlignment="Top" Width="101" Height="34"/>
+                    <Button x:Name="ConnectServer2" Click="Connect2" Content="Connect Server 2" HorizontalAlignment="Left" Margin="98,95,0,0" VerticalAlignment="Top" Width="101" Height="35"/>
+                    <ListBox x:Name="ResultListBox" HorizontalAlignment="Left" Height="235" Margin="260,52,0,0" VerticalAlignment="Top" Width="246"/>
+                    <Label Content="Packages in Connected Server: "  Background="Beige" HorizontalAlignment="Left" Margin="260,15,0,0" VerticalAlignment="Top"/>
+                    <CheckBox Content="Include Sub-directories" Checked="Connect1" HorizontalAlignment="Left" Margin="92,247,0,0" VerticalAlignment="Top"/>
+                    <Button x:Name="Filebtn" Content=" Find project list in &#xD;&#xA;connected Servers" HorizontalAlignment="Left" Margin="98,178,0,0" VerticalAlignment="Top" Width="130" Height="48" Click="Filebtn_Click"/>
+                </Grid>
+
+            </TabItem>
+            <TabItem Header="Analysis">
+                <Grid Background="#FFE5E5E5">
+                    <Button Content="Dependency &#xD;&#xA;    Analysis" HorizontalAlignment="Left" Margin="46,75,0,0" VerticalAlignment="Top" Width="76" Height="44" Click="Button_Click"/>
+                    <Button Content="   Type&#xD;&#xA; Analysis" HorizontalAlignment="Left" Margin="46,138,0,0" VerticalAlignment="Top" Width="76" Height="44" Click="Button_Click_1"/>
+                    <ListBox x:Name="Resultlist" HorizontalAlignment="Left" Height="231" Margin="178,46,0,0" VerticalAlignment="Top" Width="343"/>
+                    <Label Content="Analysis Result" Background="Beige" HorizontalAlignment="Left" Margin="178,10,0,0" VerticalAlignment="Top" Width="94"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Linq Queries">
+                <Grid Background="#FFE5E5E5">
+                    <ListBox HorizontalAlignment="Left" Height="112" Margin="70,139,0,0" VerticalAlignment="Top" Width="422"/>
+
+                    <Label Content="Linq Query" Background="AliceBlue" HorizontalAlignment="Left" Margin="70,46,0,0" VerticalAlignment="Top"/>
+                    <TextBox HorizontalAlignment="Left" Height="53" Margin="171,34,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="157"/>
+                    <Button Content="Query" HorizontalAlignment="Left" Margin="372,49,0,0" VerticalAlignment="Top" Width="76"/>
+                </Grid>
+            </TabItem>
+
+        </TabControl>
+
+    </Grid>
+</Window>

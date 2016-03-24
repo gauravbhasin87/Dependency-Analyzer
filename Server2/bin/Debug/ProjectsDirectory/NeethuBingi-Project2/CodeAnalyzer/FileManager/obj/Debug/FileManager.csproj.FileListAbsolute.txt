@@ -1,0 +1,6 @@
+E:\MSinCS\Semester#2\SMA\Project4\NeethuBingi-Project2\CodeAnalyzer\FileManager\bin\Debug\FileManager.exe.config
+E:\MSinCS\Semester#2\SMA\Project4\NeethuBingi-Project2\CodeAnalyzer\FileManager\bin\Debug\FileManager.exe
+E:\MSinCS\Semester#2\SMA\Project4\NeethuBingi-Project2\CodeAnalyzer\FileManager\bin\Debug\FileManager.pdb
+E:\MSinCS\Semester#2\SMA\Project4\NeethuBingi-Project2\CodeAnalyzer\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project4\NeethuBingi-Project2\CodeAnalyzer\FileManager\obj\Debug\FileManager.exe
+E:\MSinCS\Semester#2\SMA\Project4\NeethuBingi-Project2\CodeAnalyzer\FileManager\obj\Debug\FileManager.pdb

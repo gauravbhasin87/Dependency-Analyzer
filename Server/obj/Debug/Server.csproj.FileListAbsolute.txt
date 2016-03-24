@@ -1,0 +1,44 @@
+C:\su\cse681\code\Project4HelpF13\Server\bin\Debug\ServerHost.exe.config
+C:\su\cse681\code\Project4HelpF13\Server\bin\Debug\ServerHost.exe
+C:\su\cse681\code\Project4HelpF13\Server\bin\Debug\ServerHost.pdb
+C:\su\cse681\code\Project4HelpF13\Server\obj\Debug\ServerHost.exe
+C:\su\cse681\code\Project4HelpF13\Server\obj\Debug\ServerHost.pdb
+C:\su\cse681\code\Project4HelpF13\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Server\bin\Debug\ServerHost.exe.config
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Server\bin\Debug\ServerHost.exe
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Server\bin\Debug\ServerHost.pdb
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Server\obj\Debug\ServerHost.exe
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Server\obj\Debug\ServerHost.pdb
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Server\bin\Debug\CommService.dll
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Server\bin\Debug\Receiver.dll
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Server\bin\Debug\SenderProxy.dll
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Server\bin\Debug\CommService.pdb
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Server\bin\Debug\Receiver.pdb
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Server\bin\Debug\SenderProxy.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\Server\bin\Debug\ServerHost.exe.config
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\Server\bin\Debug\ServerHost.exe
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\Server\bin\Debug\ServerHost.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\Server\bin\Debug\CommService.dll
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\Server\bin\Debug\Receiver.dll
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\Server\bin\Debug\SenderProxy.dll
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\Server\bin\Debug\CommService.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\Server\bin\Debug\Receiver.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\Server\bin\Debug\SenderProxy.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\Server\obj\Debug\ServerHost.exe
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\Server\obj\Debug\ServerHost.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server\bin\Debug\ServerHost.exe.config
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server\bin\Debug\ServerHost.exe
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server\bin\Debug\ServerHost.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server\bin\Debug\CommService.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server\bin\Debug\Receiver.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server\bin\Debug\SenderProxy.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server\bin\Debug\TypeAnalyzer.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server\bin\Debug\CommService.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server\bin\Debug\Receiver.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server\bin\Debug\SenderProxy.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server\bin\Debug\TypeAnalyzer.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server\obj\Debug\ServerHost.exe
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server\obj\Debug\ServerHost.pdb

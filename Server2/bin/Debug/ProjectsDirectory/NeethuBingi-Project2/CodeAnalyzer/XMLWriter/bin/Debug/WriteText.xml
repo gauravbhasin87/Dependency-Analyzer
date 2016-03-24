@@ -1,0 +1,7 @@
+<!--Demonstration XML-->
+<root>
+  <child1>child1 content</child1>
+  <child2>
+    <grandchild21>content of grandchild21</grandchild21>
+  </child2>
+</root>

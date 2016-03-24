@@ -1,0 +1,8 @@
+E:\MSinCS\Semester#2\SMA\Project4\NeethuBingi-Project2\CodeAnalyzer\Display\bin\Debug\Display.exe.config
+E:\MSinCS\Semester#2\SMA\Project4\NeethuBingi-Project2\CodeAnalyzer\Display\bin\Debug\Display.exe
+E:\MSinCS\Semester#2\SMA\Project4\NeethuBingi-Project2\CodeAnalyzer\Display\bin\Debug\Display.pdb
+E:\MSinCS\Semester#2\SMA\Project4\NeethuBingi-Project2\CodeAnalyzer\Display\bin\Debug\Parser.exe
+E:\MSinCS\Semester#2\SMA\Project4\NeethuBingi-Project2\CodeAnalyzer\Display\bin\Debug\Parser.pdb
+E:\MSinCS\Semester#2\SMA\Project4\NeethuBingi-Project2\CodeAnalyzer\Display\obj\Debug\Display.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project4\NeethuBingi-Project2\CodeAnalyzer\Display\obj\Debug\Display.exe
+E:\MSinCS\Semester#2\SMA\Project4\NeethuBingi-Project2\CodeAnalyzer\Display\obj\Debug\Display.pdb

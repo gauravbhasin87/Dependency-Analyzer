@@ -1,0 +1,30 @@
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\ClientGUI\bin\Debug\ClientGUI.exe
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\ClientGUI\bin\Debug\Client.exe
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\ClientGUI\bin\Debug\Client.pdb
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\ClientGUI\obj\Debug\ClientGUI.csprojResolveAssemblyReference.cache
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\ClientGUI\obj\Debug\MainWindow.baml
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\ClientGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\ClientGUI\obj\Debug\App.g.cs
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\ClientGUI\obj\Debug\ClientGUI_MarkupCompile.cache
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\ClientGUI\obj\Debug\ClientGUI.g.resources
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.Cache
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\ClientGUI\obj\Debug\ClientGUI.exe
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\ClientGUI\obj\Debug\ClientGUI.pdb
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\ClientGUI\bin\Debug\ClientGUI.exe.config
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\ClientGUI\bin\Debug\ClientGUI.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\ClientGUI\bin\Debug\ClientGUI.exe.config
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\ClientGUI\obj\Debug\ClientGUI.exe
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\ClientGUI\obj\Debug\ClientGUI.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\ClientGUI\bin\Debug\ClientGUI.exe
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\ClientGUI\bin\Debug\ClientGUI.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\ClientGUI\bin\Debug\Client.exe
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\ClientGUI\bin\Debug\Client.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\ClientGUI\obj\Debug\ClientGUI.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\ClientGUI\obj\Debug\MainWindow.baml
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\ClientGUI\obj\Debug\MainWindow.g.cs
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\ClientGUI\obj\Debug\App.g.cs
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\ClientGUI\obj\Debug\ClientGUI_MarkupCompile.cache
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\ClientGUI\obj\Debug\ClientGUI.g.resources
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.Cache

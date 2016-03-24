@@ -1,0 +1,6 @@
+C:\su\cse681\code\Project4HelpF13\ServerHost\bin\Debug\ServerHost.exe.config
+C:\su\cse681\code\Project4HelpF13\ServerHost\bin\Debug\ServerHost.exe
+C:\su\cse681\code\Project4HelpF13\ServerHost\bin\Debug\ServerHost.pdb
+C:\su\cse681\code\Project4HelpF13\ServerHost\obj\Debug\ServerHost.exe
+C:\su\cse681\code\Project4HelpF13\ServerHost\obj\Debug\ServerHost.pdb
+C:\su\cse681\code\Project4HelpF13\ServerHost\obj\Debug\ServerHost.csprojResolveAssemblyReference.cache

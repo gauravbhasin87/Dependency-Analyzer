@@ -1,0 +1,91 @@
+<ManagedCodeAnalyzer>
+  <typeLocations>
+    <BlockingQueue.cs>
+      <SWTools type="namespace" begin="65" end="138" complexity="0" />
+      <BlockingQueue type="class" begin="67" end="137" complexity="0" />
+      <BlockingQueue type="function" begin="74" end="79" complexity="1" />
+      <enQ type="function" begin="82" end="89" complexity="1" />
+      <lock type="function" begin="84" end="88" complexity="1" />
+      <deQ type="function" begin="102" end="122" complexity="1" />
+      <lock type="function" begin="112" end="119" complexity="4" />
+      <size type="function" begin="125" end="130" complexity="1" />
+      <lock type="function" begin="127" end="128" complexity="1" />
+      <clear type="function" begin="133" end="136" complexity="1" />
+      <lock type="function" begin="134" end="135" complexity="1" />
+    </BlockingQueue.cs>
+    <Communication.svc.cs>
+      <WCF_Peer_Comm type="namespace" begin="33" end="168" complexity="0" />
+      <Receiver type="class" begin="38" end="80" complexity="0" />
+      <Receiver type="function" begin="43" end="47" complexity="2" />
+      <Close type="function" begin="49" end="52" complexity="1" />
+      <CreateRecvChannel type="function" begin="56" end="63" complexity="1" />
+      <PostMessage type="function" begin="67" end="70" complexity="1" />
+      <GetMessage type="function" begin="76" end="79" complexity="1" />
+      <Sender type="class" begin="84" end="167" complexity="0" />
+      <ThreadProc type="function" begin="95" end="104" complexity="3" />
+      <Sender type="function" begin="109" end="134" complexity="6" />
+      <CreateSendChannel type="function" begin="138" end="145" complexity="1" />
+      <PostMessage type="function" begin="150" end="153" complexity="1" />
+      <GetLastError type="function" begin="155" end="160" complexity="1" />
+      <Close type="function" begin="162" end="166" complexity="1" />
+    </Communication.svc.cs>
+    <ICommunicator.cs>
+      <WCF_Peer_Comm type="namespace" begin="20" end="32" complexity="0" />
+      <ICommunicator type="interface" begin="23" end="31" complexity="0" />
+    </ICommunicator.cs>
+    <AssemblyInfo.cs />
+    <App.xaml.cs>
+      <WPF_GUI type="namespace" begin="8" end="16" complexity="0" />
+      <App type="class" begin="13" end="15" complexity="0" />
+    </App.xaml.cs>
+    <Window1.xaml.cs>
+      <WPF_GUI type="namespace" begin="40" end="158" complexity="0" />
+      <Window1 type="class" begin="42" end="157" complexity="0" />
+      <ThreadProc type="function" begin="55" end="68" complexity="2" />
+      <OnNewMessageHandler type="function" begin="72" end="77" complexity="2" />
+      <Window1 type="function" begin="81" end="88" complexity="1" />
+      <ListenButton_Click type="function" begin="91" end="119" complexity="3" />
+      <ConnectButton_Click type="function" begin="122" end="130" complexity="1" />
+      <SendMessageButton_Click type="function" begin="133" end="149" complexity="4" />
+      <Window_Unloaded type="function" begin="151" end="156" complexity="1" />
+    </Window1.xaml.cs>
+    <App.g.cs>
+      <WPF_GUI type="namespace" begin="33" end="68" complexity="0" />
+      <App type="class" begin="39" end="67" complexity="0" />
+      <DebuggerNonUserCodeAttribute type="function" begin="46" end="54" complexity="1" />
+      <STAThreadAttribute type="function" begin="61" end="66" complexity="1" />
+    </App.g.cs>
+    <App.g.i.cs>
+      <WPF_GUI type="namespace" begin="33" end="68" complexity="0" />
+      <App type="class" begin="39" end="67" complexity="0" />
+      <DebuggerNonUserCodeAttribute type="function" begin="46" end="54" complexity="1" />
+      <STAThreadAttribute type="function" begin="61" end="66" complexity="1" />
+    </App.g.i.cs>
+    <Window1.g.cs>
+      <WPF_GUI type="namespace" begin="33" end="245" complexity="0" />
+      <Window1 type="class" begin="39" end="244" complexity="0" />
+      <DebuggerNonUserCodeAttribute type="function" begin="152" end="165" complexity="2" />
+      <DebuggerNonUserCodeAttribute type="function" begin="172" end="243" complexity="1" />
+      <switch type="function" begin="174" end="241" complexity="15" />
+    </Window1.g.cs>
+    <Window1.g.i.cs>
+      <WPF_GUI type="namespace" begin="33" end="245" complexity="0" />
+      <Window1 type="class" begin="39" end="244" complexity="0" />
+      <DebuggerNonUserCodeAttribute type="function" begin="152" end="165" complexity="2" />
+      <DebuggerNonUserCodeAttribute type="function" begin="172" end="243" complexity="1" />
+      <switch type="function" begin="174" end="241" complexity="15" />
+    </Window1.g.i.cs>
+    <AssemblyInfo.cs />
+    <Resources.Designer.cs>
+      <WPF_GUI type="namespace" begin="10" end="63" complexity="0" />
+      <Resources type="class" begin="24" end="62" complexity="0" />
+      <SuppressMessageAttribute type="function" begin="31" end="33" complexity="1" />
+      <EditorBrowsableAttribute type="function" begin="38" end="47" complexity="3" />
+      <EditorBrowsableAttribute type="function" begin="53" end="61" complexity="3" />
+    </Resources.Designer.cs>
+    <Settings.Designer.cs>
+      <WPF_GUI type="namespace" begin="10" end="26" complexity="0" />
+      <Settings type="class" begin="15" end="25" complexity="0" />
+    </Settings.Designer.cs>
+  </typeLocations>
+</ManagedCodeAnalyzer>

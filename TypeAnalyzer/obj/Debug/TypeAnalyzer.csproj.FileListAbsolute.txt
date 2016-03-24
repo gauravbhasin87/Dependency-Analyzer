@@ -1,0 +1,6 @@
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\TypeAnalyzer\bin\Debug\TypeAnalyzer.dll.config
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\TypeAnalyzer\bin\Debug\TypeAnalyzer.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\TypeAnalyzer\bin\Debug\TypeAnalyzer.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\TypeAnalyzer\obj\Debug\TypeAnalyzer.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\TypeAnalyzer\obj\Debug\TypeAnalyzer.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\TypeAnalyzer\obj\Debug\TypeAnalyzer.csprojResolveAssemblyReference.cache

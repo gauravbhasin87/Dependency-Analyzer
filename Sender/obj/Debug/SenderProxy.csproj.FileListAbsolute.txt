@@ -1,0 +1,11 @@
+C:\su\cse681\code\Project4HelpF13\SenderProxy\obj\Debug\SenderProxy.csprojResolveAssemblyReference.cache
+C:\su\cse681\code\Project4HelpF13\SenderProxy\bin\Debug\SenderProxy.dll
+C:\su\cse681\code\Project4HelpF13\SenderProxy\bin\Debug\SenderProxy.pdb
+C:\su\cse681\code\Project4HelpF13\SenderProxy\bin\Debug\ICommService.dll
+C:\su\cse681\code\Project4HelpF13\SenderProxy\bin\Debug\ICommService.pdb
+C:\su\cse681\code\Project4HelpF13\SenderProxy\obj\Debug\SenderProxy.dll
+C:\su\cse681\code\Project4HelpF13\SenderProxy\obj\Debug\SenderProxy.pdb
+C:\su\cse681\code\Project4HelpF13\SenderProxy\bin\Debug\AbstractCommunicatior.dll
+C:\su\cse681\code\Project4HelpF13\SenderProxy\bin\Debug\IComm.dll
+C:\su\cse681\code\Project4HelpF13\SenderProxy\bin\Debug\AbstractCommunicatior.pdb
+C:\su\cse681\code\Project4HelpF13\SenderProxy\bin\Debug\IComm.pdb

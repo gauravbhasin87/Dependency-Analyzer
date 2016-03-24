@@ -1,0 +1,5 @@
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\CommService\bin\Release\CommService.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\CommService\bin\Release\CommService.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\CommService\obj\Release\CommService.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\CommService\obj\Release\CommService.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\CommService\obj\Release\CommService.csprojResolveAssemblyReference.cache

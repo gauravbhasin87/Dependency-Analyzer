@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Relations>
+  <Relation filename="IRuleandAction.cs" relation="Inheritence" type1="class" type1name="AAction" text="inherits" type2="IAction" type2name="IRuleandAction.cs" filename2="interface" />
+  <Relation filename="IRuleandAction.cs" relation="Using" type1="class" type1name="FileTypesInfo" text="uses" type2="CSsemi.CSemiExp" type2name="semi" filename2="CodeAnalyzer.cs" />
+  <Relation filename="IRuleandAction.cs" relation="Inheritence" type1="class" type1name="ARule" text="inherits" type2="IRule" type2name="IRuleandAction.cs" filename2="interface" />
+  <Relation filename="IRuleandAction.cs" relation="Using" type1="class" type1name="CodeAnalyzer" text="uses" type2="CSsemi.CSemiExp" type2name="semi" filename2="CodeAnalyzer.cs" />
+  <Relation filename="IRuleandAction.cs" relation="Using" type1="class" type1name="CodeAnalyzer" text="uses" type2="CSsemi.CSemiExp" type2name="semi" filename2="CodeAnalyzer.cs" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="PushStack" text="inherits" type2="AAction" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="PopStack" text="inherits" type2="AAction" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="PrintFunction" text="inherits" type2="AAction" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="Print" text="inherits" type2="AAction" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectNamespace" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectClass" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectFunction" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectAnonymousScope" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectLeavingScope" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="TestCase-eligibleCheck.cs" relation="Aggregation" type1="eligibleCheck" type1name="checker" text="is part-of" type2="class" type2name="CommandLineParser" filename2="CommandLineParser.cs" />
+  <Relation filename="IRuleandAction.cs" relation="Inheritence" type1="class" type1name="AAction" text="inherits" type2="IAction" type2name="IRuleandAction.cs" filename2="interface" />
+  <Relation filename="IRuleandAction.cs" relation="Inheritence" type1="class" type1name="ARule" text="inherits" type2="IRule" type2name="IRuleandAction.cs" filename2="interface" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="PushStack" text="inherits" type2="AAction" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="PopStack" text="inherits" type2="AAction" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="PrintFunction" text="inherits" type2="AAction" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="Print" text="inherits" type2="AAction" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectNamespace" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectClass" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectFunction" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectAnonymousScope" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectLeavingScope" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="Toker.cs" relation="Aggregation" type1="CToker" type1name="toker" text="is part-of" type2="class" type2name="PushDelegate" filename2="RulesAndActions.cs" />
+  <Relation filename="Communication.svc.cs" relation="Inheritence" type1="class" type1name="Receiver" text="inherits" type2="ICommunicator" type2name="ICommunicator.cs" filename2="interface" />
+  <Relation filename="App.g.cs" relation="Aggregation" type1="WPF_GUI.App" type1name="app" text="is part-of" type2="class" type2name="FileManager" filename2="FileManager.cs" />
+  <Relation filename="App.g.i.cs" relation="Aggregation" type1="WPF_GUI.App" type1name="app" text="is part-of" type2="class" type2name="AAction" filename2="IRuleandAction.cs" />
+</Relations>

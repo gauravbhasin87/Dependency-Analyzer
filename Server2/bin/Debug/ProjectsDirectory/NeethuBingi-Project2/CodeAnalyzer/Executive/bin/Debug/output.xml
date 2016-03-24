@@ -1,0 +1,1032 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Code Analyzer XML Output-->
+<CodeAnalyzerOutput>
+  <TypesAndFunctions>
+    <FileTypesFunctions filename="C:\Users\neethu\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\Parser\IRuleandAction.cs">
+      <Types>
+        <Type type="interface" name="CodeAnalysis.IAction" />
+        <Type type="class" name="CodeAnalysis.AAction" />
+        <Type type="interface" name="CodeAnalysis.IRule" />
+        <Type type="class" name="CodeAnalysis.ARule" />
+      </Types>
+      <Functions>
+        <Function name="CodeAnalysis.display" />
+        <Function name="CodeAnalysis.ARule" />
+        <Function name="CodeAnalysis.add" />
+        <Function name="CodeAnalysis.doActions" />
+        <Function name="CodeAnalysis.indexOfType" />
+      </Functions>
+    </FileTypesFunctions>
+    <FileTypesFunctions filename="C:\Users\neethu\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\Parser\Parser.cs">
+      <Types>
+        <Type type="class" name="CodeAnalysis.Parser" />
+        <Type type="class" name="CodeAnalysis.TestParser" />
+      </Types>
+      <Functions>
+        <Function name="CodeAnalysis.Parser" />
+        <Function name="CodeAnalysis.add" />
+        <Function name="CodeAnalysis.parse" />
+        <Function name="CodeAnalysis.ProcessCommandline" />
+        <Function name="CodeAnalysis.ShowCommandLine" />
+        <Function name="CodeAnalysis.Main" />
+      </Functions>
+    </FileTypesFunctions>
+    <FileTypesFunctions filename="C:\Users\neethu\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\Parser\RulesAndActions.cs">
+      <Types>
+        <Type type="class" name="CodeAnalysis.Elem" />
+        <Type type="class" name="CodeAnalysis.Relationship" />
+        <Type type="class" name="CodeAnalysis.Repository" />
+        <Type type="class" name="CodeAnalysis.PushStack" />
+        <Type type="class" name="CodeAnalysis.PopStack" />
+        <Type type="class" name="CodeAnalysis.PrintFunction" />
+        <Type type="class" name="CodeAnalysis.Print" />
+        <Type type="class" name="CodeAnalysis.DetectNamespace" />
+        <Type type="class" name="CodeAnalysis.DetectClass" />
+        <Type type="class" name="CodeAnalysis.DetectFunction" />
+        <Type type="class" name="CodeAnalysis.DetectAnonymousScope" />
+        <Type type="class" name="CodeAnalysis.DetectLeavingScope" />
+        <Type type="class" name="CodeAnalysis.DetectDelegate" />
+        <Type type="class" name="CodeAnalysis.PushDelegate" />
+        <Type type="class" name="CodeAnalysis.DetectBracelesScope" />
+        <Type type="class" name="CodeAnalysis.PushBracelessScope" />
+        <Type type="class" name="CodeAnalysis.PushRelationship" />
+        <Type type="class" name="CodeAnalysis.A" />
+        <Type type="delegate" name="CodeAnalysis.SampleGenericDelegate" />
+        <Type type="class" name="CodeAnalysis.DetectInheritance" />
+        <Type type="class" name="CodeAnalysis.DetectCurrentNamespace" />
+        <Type type="class" name="CodeAnalysis.PushCurrentNamespace" />
+        <Type type="class" name="CodeAnalysis.DetectCurrentClass" />
+        <Type type="class" name="CodeAnalysis.PushCurrentClass" />
+        <Type type="class" name="CodeAnalysis.DetectAggregation" />
+        <Type type="class" name="CodeAnalysis.DetectCompAndUsing" />
+        <Type type="class" name="CodeAnalysis.BuildCodeAnalyzer" />
+      </Types>
+      <Functions>
+        <Function name="CodeAnalysis.ToString" />
+        <Function name="CodeAnalysis.ToString" />
+        <Function name="CodeAnalysis.Repository" />
+        <Function name="CodeAnalysis.getInstance" />
+        <Function name="CodeAnalysis.PushStack" />
+        <Function name="CodeAnalysis.doAction" />
+        <Function name="CodeAnalysis.PopStack" />
+        <Function name="CodeAnalysis.doAction" />
+        <Function name="CodeAnalysis.PrintFunction" />
+        <Function name="CodeAnalysis.display" />
+        <Function name="CodeAnalysis.doAction" />
+        <Function name="CodeAnalysis.Print" />
+        <Function name="CodeAnalysis.doAction" />
+        <Function name="CodeAnalysis.test" />
+        <Function name="CodeAnalysis.test" />
+        <Function name="CodeAnalysis.isSpecialToken" />
+        <Function name="CodeAnalysis.test" />
+        <Function name="CodeAnalysis.test" />
+        <Function name="CodeAnalysis.test" />
+        <Function name="CodeAnalysis.test" />
+        <Function name="CodeAnalysis.PushDelegate" />
+        <Function name="CodeAnalysis.doAction" />
+        <Function name="CodeAnalysis.isSpecialToken" />
+        <Function name="CodeAnalysis.test" />
+        <Function name="CodeAnalysis.PushBracelessScope" />
+        <Function name="CodeAnalysis.doAction" />
+        <Function name="CodeAnalysis.PushRelationship" />
+        <Function name="CodeAnalysis.doAction" />
+        <Function name="CodeAnalysis.A" />
+        <Function name="CodeAnalysis.fun1" />
+        <Function name="CodeAnalysis.test" />
+        <Function name="CodeAnalysis.test" />
+        <Function name="CodeAnalysis.PushCurrentNamespace" />
+        <Function name="CodeAnalysis.doAction" />
+        <Function name="CodeAnalysis.test" />
+        <Function name="CodeAnalysis.PushCurrentClass" />
+        <Function name="CodeAnalysis.doAction" />
+        <Function name="CodeAnalysis.test" />
+        <Function name="CodeAnalysis.test" />
+        <Function name="CodeAnalysis.BuildCodeAnalyzer" />
+        <Function name="CodeAnalysis.build" />
+        <Function name="CodeAnalysis.buildRelsParser" />
+      </Functions>
+    </FileTypesFunctions>
+    <FileTypesFunctions filename="C:\Users\neethu\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\Parser\ScopeStack.cs">
+      <Types>
+        <Type type="class" name="CodeAnalysis.ScopeStack" />
+        <Type type="class" name="CodeAnalysis.Test" />
+        <Type type="struct" name="CodeAnalysis.Elem" />
+      </Types>
+      <Functions>
+        <Function name="CodeAnalysis.push" />
+        <Function name="CodeAnalysis.pop" />
+        <Function name="CodeAnalysis.clear" />
+        <Function name="CodeAnalysis.lastPopped" />
+        <Function name="CodeAnalysis.display" />
+        <Function name="CodeAnalysis.make" />
+        <Function name="CodeAnalysis.ToString" />
+        <Function name="CodeAnalysis.Main" />
+      </Functions>
+    </FileTypesFunctions>
+    <FileTypesFunctions filename="C:\Users\neethu\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\Parser\Semi.cs">
+      <Types>
+        <Type type="class" name="CSsemi.CSemiExp" />
+      </Types>
+      <Functions>
+        <Function name="CSsemi.CSemiExp" />
+        <Function name="CSsemi.Equals" />
+        <Function name="CSsemi.FindFirst" />
+        <Function name="CSsemi.FindLast" />
+        <Function name="CSsemi.Contains" />
+        <Function name="CSsemi.GetHashCode" />
+        <Function name="CSsemi.open" />
+        <Function name="CSsemi.close" />
+        <Function name="CSsemi.isTerminator" />
+        <Function name="CSsemi.switch" />
+        <Function name="CSsemi.get" />
+        <Function name="CSsemi.IsPunc" />
+        <Function name="CSsemi.IsOperatorPair" />
+        <Function name="CSsemi.getSemi" />
+        <Function name="CSsemi.insert" />
+        <Function name="CSsemi.Add" />
+        <Function name="CSsemi.Add" />
+        <Function name="CSsemi.initialize" />
+        <Function name="CSsemi.flush" />
+        <Function name="CSsemi.isComment" />
+        <Function name="CSsemi.display" />
+        <Function name="CSsemi.displayStr" />
+        <Function name="CSsemi.clone" />
+        <Function name="CSsemi.remove" />
+        <Function name="CSsemi.remove" />
+        <Function name="CSsemi.Main" />
+      </Functions>
+    </FileTypesFunctions>
+    <FileTypesFunctions filename="C:\Users\neethu\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\Parser\TestCase-eligibleCheck.cs">
+      <Types>
+        <Type type="class" name="myEligibleCheck.eligibleCheck" />
+      </Types>
+      <Functions>
+        <Function name="myEligibleCheck.preCreate" />
+        <Function name="myEligibleCheck.travers" />
+        <Function name="myEligibleCheck.coverFiles" />
+        <Function name="myEligibleCheck.renameFiles" />
+        <Function name="myEligibleCheck.Main" />
+      </Functions>
+    </FileTypesFunctions>
+    <FileTypesFunctions filename="C:\Users\neethu\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\Parser\Toker.cs">
+      <Types>
+        <Type type="class" name="CStoker.CToker" />
+      </Types>
+      <Functions>
+        <Function name="CStoker.CToker" />
+        <Function name="CStoker.openFile" />
+        <Function name="CStoker.openString" />
+        <Function name="CStoker.close" />
+        <Function name="CStoker.removeReturn" />
+        <Function name="CStoker.removeReturn" />
+        <Function name="CStoker.readLine" />
+        <Function name="CStoker.getLine" />
+        <Function name="CStoker.extract" />
+        <Function name="CStoker.mapToOldDoubleQuoteStyle" />
+        <Function name="CStoker.extractDQuote" />
+        <Function name="CStoker.extractSQuote" />
+        <Function name="CStoker.extractComment" />
+        <Function name="CStoker.eatCComment" />
+        <Function name="CStoker.IsGrammarPunctuation" />
+        <Function name="CStoker.eatAscii" />
+        <Function name="CStoker.eatPunctuationChar" />
+        <Function name="CStoker.fillBuffer" />
+        <Function name="CStoker.getTok" />
+        <Function name="CStoker.peekNextTok" />
+        <Function name="CStoker.pushBack" />
+        <Function name="CStoker.Main" />
+      </Functions>
+    </FileTypesFunctions>
+    <FileTypesFunctions filename="C:\Users\neethu\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\Parser\Properties\AssemblyInfo.cs">
+      <Types />
+      <Functions />
+    </FileTypesFunctions>
+  </TypesAndFunctions>
+  <TypeRelationships>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.AAction</Type1>
+      <Type2>CodeAnalysis.IAction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.ARule</Type1>
+      <Type2>CodeAnalysis.IRule</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.PushStack</Type1>
+      <Type2>CodeAnalysis.AAction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.PopStack</Type1>
+      <Type2>CodeAnalysis.AAction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.PrintFunction</Type1>
+      <Type2>CodeAnalysis.AAction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.Print</Type1>
+      <Type2>CodeAnalysis.AAction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.DetectNamespace</Type1>
+      <Type2>CodeAnalysis.ARule</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.DetectClass</Type1>
+      <Type2>CodeAnalysis.ARule</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.DetectFunction</Type1>
+      <Type2>CodeAnalysis.ARule</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.DetectAnonymousScope</Type1>
+      <Type2>CodeAnalysis.ARule</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.DetectLeavingScope</Type1>
+      <Type2>CodeAnalysis.ARule</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.DetectDelegate</Type1>
+      <Type2>CodeAnalysis.ARule</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.PushDelegate</Type1>
+      <Type2>CodeAnalysis.AAction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.DetectBracelesScope</Type1>
+      <Type2>CodeAnalysis.ARule</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.PushBracelessScope</Type1>
+      <Type2>CodeAnalysis.AAction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.PushRelationship</Type1>
+      <Type2>CodeAnalysis.AAction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.A</Type1>
+      <Type2>CSsemi.CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.DetectInheritance</Type1>
+      <Type2>CodeAnalysis.ARule</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.DetectCurrentNamespace</Type1>
+      <Type2>CodeAnalysis.ARule</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.PushCurrentNamespace</Type1>
+      <Type2>CodeAnalysis.AAction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.DetectCurrentClass</Type1>
+      <Type2>CodeAnalysis.ARule</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.PushCurrentClass</Type1>
+      <Type2>CodeAnalysis.AAction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.DetectAggregation</Type1>
+      <Type2>CodeAnalysis.ARule</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Inheritance</Relation>
+      <Type1>CodeAnalysis.DetectCompAndUsing</Type1>
+      <Type2>CodeAnalysis.ARule</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Composition</Relation>
+      <Type1>CodeAnalysis.PopStack</Type1>
+      <Type2>CodeAnalysis.Elem</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Composition</Relation>
+      <Type1>CodeAnalysis.PopStack</Type1>
+      <Type2>CodeAnalysis.Elem</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Composition</Relation>
+      <Type1>CodeAnalysis.Elem</Type1>
+      <Type2>CodeAnalysis.Elem</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.TestParser</Type1>
+      <Type2>CSsemi.CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.TestParser</Type1>
+      <Type2>CodeAnalysis.BuildCodeAnalyzer</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.PushStack</Type1>
+      <Type2>CodeAnalysis.Elem</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.PopStack</Type1>
+      <Type2>CSsemi.CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.DetectNamespace</Type1>
+      <Type2>CSsemi.CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.DetectClass</Type1>
+      <Type2>CSsemi.CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.DetectFunction</Type1>
+      <Type2>CSsemi.CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.DetectAnonymousScope</Type1>
+      <Type2>CSsemi.CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.DetectDelegate</Type1>
+      <Type2>CSsemi.CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.PushDelegate</Type1>
+      <Type2>CodeAnalysis.Elem</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.DetectBracelesScope</Type1>
+      <Type2>CSsemi.CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.PushRelationship</Type1>
+      <Type2>CodeAnalysis.Relationship</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.A</Type1>
+      <Type2>CodeAnalysis.PushCurrentClass</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.A</Type1>
+      <Type2>CSsemi.CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.DetectInheritance</Type1>
+      <Type2>CSsemi.CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.DetectCurrentNamespace</Type1>
+      <Type2>CSsemi.CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.DetectCurrentClass</Type1>
+      <Type2>CSsemi.CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.DetectAggregation</Type1>
+      <Type2>CSsemi.CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.DetectCompAndUsing</Type1>
+      <Type2>CSsemi.CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.Parser</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.PushStack</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.PushCurrentNamespace</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.PushDelegate</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.DetectCurrentNamespace</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.DetectClass</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.DetectFunction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.DetectDelegate</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.DetectAnonymousScope</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.DetectLeavingScope</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.PopStack</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.DetectBracelesScope</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.PushBracelessScope</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.Parser</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.PushRelationship</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.PushCurrentClass</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.PushCurrentNamespace</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.DetectCurrentNamespace</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.DetectCurrentClass</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.DetectInheritance</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.DetectAggregation</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.DetectCompAndUsing</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CSsemi.CSemiExp</Type1>
+      <Type2>CStoker.CToker</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CSsemi.CSemiExp</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CSsemi.CSemiExp</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CSsemi.CSemiExp</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>myEligibleCheck.eligibleCheck</Type1>
+      <Type2>myEligibleCheck.eligibleCheck</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Aggregation</Relation>
+      <Type1>CStoker.CToker</Type1>
+      <Type2>CStoker.CToker</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.IAction</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.AAction</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.AAction</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.IRule</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.IRule</Type1>
+      <Type2>CodeAnalysis.IAction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.ARule</Type1>
+      <Type2>CodeAnalysis.IAction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.ARule</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.ARule</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.ARule</Type1>
+      <Type2>CodeAnalysis.IAction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.ARule</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.Parser</Type1>
+      <Type2>CodeAnalysis.IRule</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.Parser</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.Parser</Type1>
+      <Type2>CodeAnalysis.IRule</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.TestParser</Type1>
+      <Type2>CodeAnalysis.TestParser</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.TestParser</Type1>
+      <Type2>CodeAnalysis.Parser</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.TestParser</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.TestParser</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.TestParser</Type1>
+      <Type2>CodeAnalysis.Elem</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.Repository</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PushStack</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PushStack</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PushStack</Type1>
+      <Type2>CodeAnalysis.AAction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PushStack</Type1>
+      <Type2>CodeAnalysis.AAction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PopStack</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PopStack</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PopStack</Type1>
+      <Type2>CodeAnalysis.AAction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PrintFunction</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PrintFunction</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PrintFunction</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.Print</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.Print</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectNamespace</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectClass</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectFunction</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectAnonymousScope</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectLeavingScope</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectDelegate</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PushDelegate</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PushDelegate</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PushDelegate</Type1>
+      <Type2>CodeAnalysis.AAction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PushDelegate</Type1>
+      <Type2>CodeAnalysis.AAction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectBracelesScope</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PushBracelessScope</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PushBracelessScope</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PushRelationship</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PushRelationship</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PushRelationship</Type1>
+      <Type2>CodeAnalysis.AAction</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.A</Type1>
+      <Type2>CodeAnalysis.PushCurrentClass</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectInheritance</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectInheritance</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectInheritance</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectInheritance</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectInheritance</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectInheritance</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectInheritance</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectCurrentNamespace</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PushCurrentNamespace</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PushCurrentNamespace</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectCurrentClass</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PushCurrentClass</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.PushCurrentClass</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectAggregation</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectAggregation</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectAggregation</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectAggregation</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectAggregation</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectAggregation</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectAggregation</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectAggregation</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectAggregation</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectCompAndUsing</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectCompAndUsing</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectCompAndUsing</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectCompAndUsing</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectCompAndUsing</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectCompAndUsing</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectCompAndUsing</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectCompAndUsing</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.DetectCompAndUsing</Type1>
+      <Type2>CodeAnalysis.Repository</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.Parser</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.BuildCodeAnalyzer</Type1>
+      <Type2>CodeAnalysis.Parser</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CodeAnalysis.Elem</Type1>
+      <Type2>CodeAnalysis.Elem</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CSsemi.CSemiExp</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CSsemi.CSemiExp</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CSsemi.CSemiExp</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CSsemi.CSemiExp</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CSsemi.CSemiExp</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>CSsemi.CSemiExp</Type1>
+      <Type2>CSsemi.CSemiExp</Type2>
+    </Relationship>
+    <Relationship>
+      <Relation>Using</Relation>
+      <Type1>myEligibleCheck.eligibleCheck</Type1>
+      <Type2>CodeAnalysis.TestParser</Type2>
+    </Relationship>
+  </TypeRelationships>
+</CodeAnalyzerOutput>

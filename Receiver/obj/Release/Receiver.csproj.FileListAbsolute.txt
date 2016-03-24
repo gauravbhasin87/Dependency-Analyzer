@@ -1,0 +1,7 @@
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Receiver\bin\Release\Receiver.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Receiver\bin\Release\Receiver.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Receiver\bin\Release\CommService.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Receiver\bin\Release\CommService.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Receiver\obj\Release\Receiver.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Receiver\obj\Release\Receiver.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Receiver\obj\Release\Receiver.pdb

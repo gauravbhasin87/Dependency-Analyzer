@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Code Analyzer XML Output-->
+<CodeAnalyzerOutput>
+  <TypesAndFunctions>
+    <FileTypesFunctions filename="C:\Users\neethu\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\TestCode\CodeAnalyzer.cs">
+      <Types>
+        <Type type="class" name="CodeAnalysis.FileTypesInfo" />
+        <Type type="class" name="CodeAnalysis.CodeAnalyzer" />
+      </Types>
+      <Functions>
+        <Function name="CodeAnalysis.FileTypesInfo.FileTypesInfo" size="5" complexity="1" />
+        <Function name="CodeAnalysis.CodeAnalyzer.CodeAnalyzer" size="9" complexity="1" />
+        <Function name="CodeAnalysis.CodeAnalyzer.doCodeAnalysis" size="6" complexity="2" />
+        <Function name="CodeAnalysis.CodeAnalyzer.findTypesAndFuncs" size="32" complexity="7" />
+        <Function name="CodeAnalysis.CodeAnalyzer.findTypeRelationships" size="23" complexity="6" />
+        <Function name="CodeAnalysis.CodeAnalyzer.Main" size="36" complexity="4" />
+      </Functions>
+    </FileTypesFunctions>
+    <FileTypesFunctions filename="C:\Users\neethu\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\TestCode\delegateDemo.cs">
+      <Types>
+        <Type type="class" name="delegateDemo.Publisher" />
+        <Type type="delegate" name="delegateDemo.invoker" />
+        <Type type="class" name="delegateDemo.Subscriber" />
+        <Type type="class" name="delegateDemo.delegateDemo" />
+      </Types>
+      <Functions>
+        <Function name="delegateDemo.Publisher.Publisher" size="4" complexity="1" />
+        <Function name="delegateDemo.Publisher.Publish" size="10" complexity="3" />
+        <Function name="delegateDemo.Subscriber.Subscriber" size="9" complexity="1" />
+        <Function name="delegateDemo.Subscriber.instanceHandler" size="5" complexity="1" />
+        <Function name="delegateDemo.Subscriber.staticHandler" size="5" complexity="1" />
+        <Function name="delegateDemo.delegateDemo.Main" size="14" complexity="1" />
+      </Functions>
+    </FileTypesFunctions>
+    <FileTypesFunctions filename="C:\Users\neethu\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\TestCode\DemoRelationships.cs">
+      <Types>
+        <Type type="class" name="TypeRels.AggregatedType" />
+        <Type type="class" name="TypeRels.DerivedType" />
+        <Type type="struct" name="TypeRels.ComposedType" />
+        <Type type="class" name="TypeRels.UsedType" />
+        <Type type="class" name="TypeRels.DemoRels" />
+      </Types>
+      <Functions>
+        <Function name="TypeRels.AggregatedType.say" size="4" complexity="1" />
+        <Function name="TypeRels.DerivedType.DerivedType" size="4" complexity="1" />
+        <Function name="TypeRels.DerivedType.say" size="4" complexity="1" />
+        <Function name="TypeRels.ComposedType.say" size="7" complexity="1" />
+        <Function name="TypeRels.UsedType.UsedType" size="4" complexity="1" />
+        <Function name="TypeRels.UsedType.say" size="4" complexity="1" />
+        <Function name="TypeRels.DemoRels.DemoRels" size="6" complexity="1" />
+        <Function name="TypeRels.DemoRels.say" size="5" complexity="1" />
+        <Function name="TypeRels.DemoRels.Main" size="12" complexity="1" />
+      </Functions>
+    </FileTypesFunctions>
+    <FileTypesFunctions filename="C:\Users\neethu\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\TestCode\Executive.cs">
+      <Types>
+        <Type type="class" name="CodeAnalysis.Executive" />
+      </Types>
+      <Functions>
+        <Function name="CodeAnalysis.Executive.startCodeAnalysisAndDisplay" size="35" complexity="5" />
+        <Function name="CodeAnalysis.Executive.displayFunctionsSummary" size="32" complexity="5" />
+        <Function name="CodeAnalysis.Executive.Main" size="48" complexity="7" />
+      </Functions>
+    </FileTypesFunctions>
+    <FileTypesFunctions filename="C:\Users\neethu\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\TestCode\FileManager.cs">
+      <Types>
+        <Type type="class" name="CodeAnalysis.FileManager" />
+      </Types>
+      <Functions>
+        <Function name="CodeAnalysis.FileManager.findFiles" size="21" complexity="6" />
+        <Function name="CodeAnalysis.FileManager.addPattern" size="4" complexity="1" />
+        <Function name="CodeAnalysis.FileManager.getFiles" size="4" complexity="1" />
+        <Function name="CodeAnalysis.FileManager.setRecurse" size="4" complexity="1" />
+        <Function name="CodeAnalysis.FileManager.Main" size="17" complexity="2" />
+      </Functions>
+    </FileTypesFunctions>
+    <FileTypesFunctions filename="C:\Users\neethu\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\TestCode\IRuleandAction.cs">
+      <Types>
+        <Type type="interface" name="CodeAnalysis.IAction" />
+        <Type type="class" name="CodeAnalysis.AAction" />
+        <Type type="interface" name="CodeAnalysis.IRule" />
+        <Type type="class" name="CodeAnalysis.ARule" />
+      </Types>
+      <Functions>
+        <Function name="CodeAnalysis.AAction.display" size="6" complexity="3" />
+        <Function name="CodeAnalysis.ARule.ARule" size="4" complexity="1" />
+        <Function name="CodeAnalysis.ARule.add" size="4" complexity="1" />
+        <Function name="CodeAnalysis.ARule.doActions" size="5" complexity="2" />
+        <Function name="CodeAnalysis.ARule.indexOfType" size="14" complexity="1" />
+      </Functions>
+    </FileTypesFunctions>
+    <FileTypesFunctions filename="C:\Users\neethu\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\TestCode\Parser.cs">
+      <Types>
+        <Type type="class" name="CodeAnalysis.Parser" />
+        <Type type="class" name="CodeAnalysis.TestParser" />
+      </Types>
+      <Functions>
+        <Function name="CodeAnalysis.Parser.Parser" size="4" complexity="1" />
+        <Function name="CodeAnalysis.Parser.add" size="4" complexity="1" />
+        <Function name="CodeAnalysis.Parser.parse" size="12" complexity="3" />
+        <Function name="CodeAnalysis.TestParser.ProcessCommandline" size="17" complexity="3" />
+        <Function name="CodeAnalysis.TestParser.ShowCommandLine" size="10" complexity="2" />
+        <Function name="CodeAnalysis.TestParser.Main" size="47" complexity="7" />
+      </Functions>
+    </FileTypesFunctions>
+    <FileTypesFunctions filename="C:\Users\neethu\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\TestCode\Semi.cs">
+      <Types>
+        <Type type="class" name="CSsemi.CSemiExp" />
+      </Types>
+      <Functions>
+        <Function name="CSsemi.CSemiExp.CSemiExp" size="7" complexity="1" />
+        <Function name="CSsemi.CSemiExp.Equals" size="10" complexity="4" />
+        <Function name="CSsemi.CSemiExp.FindFirst" size="7" complexity="3" />
+        <Function name="CSsemi.CSemiExp.FindLast" size="7" complexity="3" />
+        <Function name="CSsemi.CSemiExp.Contains" size="4" complexity="1" />
+        <Function name="CSsemi.CSemiExp.GetHashCode" size="4" complexity="1" />
+        <Function name="CSsemi.CSemiExp.open" size="4" complexity="1" />
+        <Function name="CSsemi.CSemiExp.close" size="4" complexity="1" />
+        <Function name="CSsemi.CSemiExp.isTerminator" size="14" complexity="2" />
+        <Function name="CSsemi.CSemiExp.switch" size="11" complexity="2" />
+        <Function name="CSsemi.CSemiExp.get" size="8" complexity="2" />
+        <Function name="CSsemi.CSemiExp.IsPunc" size="4" complexity="1" />
+        <Function name="CSsemi.CSemiExp.IsOperatorPair" size="16" complexity="4" />
+        <Function name="CSsemi.CSemiExp.getSemi" size="27" complexity="7" />
+        <Function name="CSsemi.CSemiExp.insert" size="9" complexity="2" />
+        <Function name="CSsemi.CSemiExp.Add" size="5" complexity="1" />
+        <Function name="CSsemi.CSemiExp.Add" size="5" complexity="2" />
+        <Function name="CSsemi.CSemiExp.initialize" size="7" complexity="2" />
+        <Function name="CSsemi.CSemiExp.flush" size="4" complexity="1" />
+        <Function name="CSsemi.CSemiExp.isComment" size="8" complexity="4" />
+        <Function name="CSsemi.CSemiExp.display" size="5" complexity="1" />
+        <Function name="CSsemi.CSemiExp.displayStr" size="11" complexity="3" />
+        <Function name="CSsemi.CSemiExp.clone" size="9" complexity="2" />
+        <Function name="CSsemi.CSemiExp.remove" size="9" complexity="2" />
+        <Function name="CSsemi.CSemiExp.remove" size="9" complexity="2" />
+        <Function name="CSsemi.CSemiExp.Main" size="59" complexity="6" />
+      </Functions>
+    </FileTypesFunctions>
+  </TypesAndFunctions>
+</CodeAnalyzerOutput>

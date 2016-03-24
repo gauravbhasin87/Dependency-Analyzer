@@ -1,0 +1,12 @@
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\Client\bin\Debug\Client.exe
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\Client\bin\Debug\Client.pdb
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\Client\obj\Debug\Client.exe
+C:\Users\Nagen\Desktop\Study\SMA\Project4\Final\Project4\Client\Client\obj\Debug\Client.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\Client\bin\Debug\Client.exe.config
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\Client\bin\Debug\Client.exe
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\Client\bin\Debug\Client.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\Client\obj\Debug\Client.exe
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\Client\Client\obj\Debug\Client.pdb

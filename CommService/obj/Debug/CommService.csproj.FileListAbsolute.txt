@@ -1,0 +1,20 @@
+C:\su\cse681\code\Project4HelpF13\CommService\bin\Debug\CommService.dll
+C:\su\cse681\code\Project4HelpF13\CommService\bin\Debug\CommService.pdb
+C:\su\cse681\code\Project4HelpF13\CommService\obj\Debug\CommService.dll
+C:\su\cse681\code\Project4HelpF13\CommService\obj\Debug\CommService.pdb
+C:\su\cse681\code\Project4HelpF13\CommService\obj\Debug\CommService.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\CommService\bin\Debug\CommService.dll
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\CommService\bin\Debug\CommService.pdb
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\CommService\obj\Debug\CommService.dll
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\CommService\obj\Debug\CommService.pdb
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\CommService\obj\Debug\CommService.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\CommService\bin\Debug\CommService.dll
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\CommService\bin\Debug\CommService.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\CommService\obj\Debug\CommService.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\CommService\obj\Debug\CommService.dll
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\CommService\obj\Debug\CommService.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\CommService\bin\Debug\CommService.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\CommService\bin\Debug\CommService.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\CommService\obj\Debug\CommService.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\CommService\obj\Debug\CommService.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\CommService\obj\Debug\CommService.csprojResolveAssemblyReference.cache

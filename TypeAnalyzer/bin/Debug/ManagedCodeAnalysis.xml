@@ -1,0 +1,295 @@
+<ManagedCodeAnalizer>
+  <typeLocations>
+    <Analyzer.cs>
+      <ManagedCodeAnalyzer type="namespace" begin="55" end="304" complexity="0" />
+      <Analyzer type="class" begin="57" end="187" complexity="0" />
+      <getFiles type="function" begin="63" end="66" complexity="1" />
+      <doParse type="function" begin="70" end="119" complexity="6" />
+      <doAnalyse type="function" begin="122" end="176" complexity="6" />
+      <BuildParser type="class" begin="190" end="247" complexity="0" />
+      <BuildParser type="function" begin="194" end="198" complexity="1" />
+      <build type="function" begin="199" end="246" complexity="1" />
+      <BuildAnalyzer type="class" begin="250" end="301" complexity="0" />
+      <BuildAnalyzer type="function" begin="258" end="266" complexity="1" />
+      <build2 type="function" begin="268" end="299" complexity="1" />
+    </Analyzer.cs>
+    <DisplayRepository.cs>
+      <DisplayPkg type="namespace" begin="43" end="226" complexity="0" />
+      <DisplayRepository type="class" begin="45" end="225" complexity="0" />
+      <displayTypeAnalysis type="function" begin="48" end="74" complexity="5" />
+      <displayRelationAnalysis type="function" begin="76" end="140" complexity="10" />
+      <xmlOutput type="function" begin="142" end="224" complexity="7" />
+    </DisplayRepository.cs>
+    <FileMgr.cs>
+      <ManagedCodeAnalyzer type="namespace" begin="39" end="104" complexity="0" />
+      <FileMgr type="class" begin="41" end="103" complexity="0" />
+      <findFiles type="function" begin="47" end="73" complexity="6" />
+      <getFiles type="function" begin="81" end="84" complexity="1" />
+      <Main type="function" begin="87" end="101" complexity="2" />
+    </FileMgr.cs>
+    <IRuleandAction.cs>
+      <RulesAndActions type="namespace" begin="42" end="125" complexity="0" />
+      <IAction type="interface" begin="47" end="50" complexity="0" />
+      <AAction type="class" begin="54" end="80" complexity="0" />
+      <display type="function" begin="74" end="79" complexity="2" />
+      <IRule type="interface" begin="84" end="88" complexity="0" />
+      <ARule type="class" begin="92" end="124" complexity="0" />
+      <ARule type="function" begin="96" end="99" complexity="1" />
+      <add type="function" begin="100" end="103" complexity="1" />
+      <doActions type="function" begin="105" end="109" complexity="2" />
+      <indexOfType type="function" begin="110" end="123" complexity="1" />
+    </IRuleandAction.cs>
+    <Parser.cs>
+      <ParserPkg type="namespace" begin="45" end="166" complexity="0" />
+      <Parser type="class" begin="50" end="77" complexity="0" />
+      <Parser type="function" begin="57" end="60" complexity="1" />
+      <add type="function" begin="61" end="64" complexity="1" />
+      <parse type="function" begin="65" end="76" complexity="3" />
+      <TestParser type="class" begin="79" end="165" complexity="0" />
+      <ProcessCommandline type="function" begin="83" end="99" complexity="3" />
+      <ShowCommandLine type="function" begin="101" end="110" complexity="2" />
+      <Main type="function" begin="116" end="163" complexity="1" />
+    </Parser.cs>
+    <ParserCL.cs>
+      <ManagedCodeAnalyzer type="namespace" begin="39" end="169" complexity="0" />
+      <InvalidCmdLineException type="class" begin="41" end="44" complexity="0" />
+      <InvalidCmdLineException type="function" begin="42" end="43" complexity="1" />
+      <ParserCL type="class" begin="46" end="147" complexity="0" />
+      <ParserCL type="function" begin="53" end="56" complexity="1" />
+      <ParseCommandline type="function" begin="57" end="134" complexity="14" />
+      <ShowCommandLine type="function" begin="136" end="145" complexity="2" />
+    </ParserCL.cs>
+    <Program.cs>
+      <ManagedCodeAnalyzer type="namespace" begin="42" end="87" complexity="0" />
+      <Program type="class" begin="44" end="86" complexity="0" />
+      <Main type="function" begin="46" end="85" complexity="3" />
+    </Program.cs>
+    <Repository.cs>
+      <RepositoryNS type="namespace" begin="47" end="173" complexity="0" />
+      <Elem type="class" begin="49" end="70" complexity="0" />
+      <ToString type="function" begin="58" end="69" complexity="1" />
+      <ElemForRel type="class" begin="73" end="102" complexity="0" />
+      <ToString type="function" begin="85" end="100" complexity="1" />
+      <Repository type="class" begin="105" end="172" complexity="0" />
+      <Repository type="function" begin="119" end="126" complexity="1" />
+      <Repository type="function" begin="129" end="132" complexity="1" />
+      <getInstance type="function" begin="134" end="137" complexity="1" />
+    </Repository.cs>
+    <RulesAndActions.cs>
+      <RulesAndActions type="namespace" begin="65" end="783" complexity="0" />
+      <PushRelation type="class" begin="71" end="108" complexity="0" />
+      <PushRelation type="function" begin="76" end="81" complexity="1" />
+      <doAction type="function" begin="83" end="107" complexity="3" />
+      <PushStack type="class" begin="114" end="167" complexity="0" />
+      <PushStack type="function" begin="119" end="124" complexity="1" />
+      <doAction type="function" begin="125" end="166" complexity="7" />
+      <PopStack type="class" begin="171" end="230" complexity="0" />
+      <PopStack type="function" begin="175" end="178" complexity="1" />
+      <doAction type="function" begin="179" end="229" complexity="10" />
+      <PrintFunction type="class" begin="234" end="254" complexity="0" />
+      <PrintFunction type="function" begin="238" end="241" complexity="1" />
+      <display type="function" begin="242" end="249" complexity="2" />
+      <doAction type="function" begin="250" end="253" complexity="1" />
+      <Print type="class" begin="258" end="271" complexity="0" />
+      <Print type="function" begin="262" end="265" complexity="1" />
+      <doAction type="function" begin="266" end="270" complexity="1" />
+      <DetectInheritance type="class" begin="281" end="323" complexity="0" />
+      <DetectInheritance type="function" begin="285" end="288" complexity="1" />
+      <test type="function" begin="290" end="322" complexity="5" />
+      <DetectComposition type="class" begin="329" end="415" complexity="0" />
+      <DetectComposition type="function" begin="335" end="340" complexity="1" />
+      <test type="function" begin="342" end="414" complexity="10" />
+      <DetectAggregation type="class" begin="420" end="496" complexity="0" />
+      <DetectAggregation type="function" begin="426" end="430" complexity="1" />
+      <namespacecheck type="function" begin="432" end="454" complexity="6" />
+      <test type="function" begin="456" end="495" complexity="6" />
+      <DetectUsing type="class" begin="501" end="638" complexity="0" />
+      <DetectUsing type="function" begin="506" end="510" complexity="1" />
+      <isSpecialToken type="function" begin="512" end="519" complexity="3" />
+      <splitFunctionArgs type="function" begin="522" end="563" complexity="8" />
+      <namespacecheck type="function" begin="567" end="589" complexity="6" />
+      <test type="function" begin="591" end="637" complexity="8" />
+      <DetectNamespace type="class" begin="645" end="661" complexity="0" />
+      <test type="function" begin="647" end="660" complexity="2" />
+      <DetectClass type="class" begin="665" end="687" complexity="0" />
+      <test type="function" begin="667" end="686" complexity="2" />
+      <DetectFunction type="class" begin="691" end="716" complexity="0" />
+      <isSpecialToken type="function" begin="693" end="700" complexity="3" />
+      <test type="function" begin="701" end="715" complexity="3" />
+      <DetectAnonymousScope type="class" begin="721" end="737" complexity="0" />
+      <test type="function" begin="723" end="736" complexity="2" />
+      <DetectBracelessScopes type="class" begin="742" end="764" complexity="0" />
+      <test type="function" begin="744" end="763" complexity="4" />
+      <DetectLeavingScope type="class" begin="769" end="781" complexity="0" />
+      <test type="function" begin="771" end="780" complexity="2" />
+    </RulesAndActions.cs>
+    <ScopeStack.cs>
+      <ScopeStack type="namespace" begin="52" end="185" complexity="0" />
+      <ScopeStack type="class" begin="54" end="121" complexity="0" />
+      <push type="function" begin="61" end="64" complexity="1" />
+      <pop type="function" begin="67" end="76" complexity="2" />
+      <clear type="function" begin="79" end="82" complexity="1" />
+      <lastPopped type="function" begin="108" end="111" complexity="1" />
+      <display type="function" begin="114" end="120" complexity="2" />
+      <Test type="class" begin="123" end="184" complexity="0" />
+      <Elem type="struct" begin="125" end="146" complexity="0" />
+      <make type="function" begin="130" end="135" complexity="1" />
+      <ToString type="function" begin="136" end="145" complexity="1" />
+      <Main type="function" begin="149" end="182" complexity="1" />
+    </ScopeStack.cs>
+    <Semi.cs>
+      <CSsemi type="namespace" begin="112" end="493" complexity="0" />
+      <CSemiExp type="class" begin="117" end="492" complexity="0" />
+      <CSemiExp type="function" begin="132" end="139" complexity="1" />
+      <Equals type="function" begin="143" end="152" complexity="3" />
+      <FindFirst type="function" begin="156" end="162" complexity="2" />
+      <FindLast type="function" begin="165" end="171" complexity="2" />
+      <Contains type="function" begin="174" end="177" complexity="1" />
+      <GetHashCode type="function" begin="180" end="183" complexity="1" />
+      <open type="function" begin="186" end="189" complexity="1" />
+      <close type="function" begin="192" end="195" complexity="1" />
+      <isTerminator type="function" begin="198" end="211" complexity="1" />
+      <switch type="function" begin="200" end="210" complexity="5" />
+      <get type="function" begin="214" end="221" complexity="2" />
+      <IsPunc type="function" begin="224" end="227" complexity="1" />
+      <IsOperatorPair type="function" begin="236" end="251" complexity="3" />
+      <getSemi type="function" begin="254" end="280" complexity="7" />
+      <insert type="function" begin="296" end="304" complexity="2" />
+      <Add type="function" begin="307" end="311" complexity="1" />
+      <Add type="function" begin="314" end="318" complexity="2" />
+      <initialize type="function" begin="321" end="327" complexity="2" />
+      <flush type="function" begin="330" end="333" complexity="1" />
+      <isComment type="function" begin="336" end="343" complexity="2" />
+      <display type="function" begin="346" end="350" complexity="1" />
+      <displayStr type="function" begin="353" end="363" complexity="3" />
+      <clone type="function" begin="395" end="403" complexity="2" />
+      <remove type="function" begin="406" end="414" complexity="2" />
+      <remove type="function" begin="417" end="425" complexity="2" />
+      <Main type="function" begin="432" end="490" complexity="6" />
+    </Semi.cs>
+    <Toker.cs>
+      <CStoker type="namespace" begin="100" end="677" complexity="0" />
+      <CToker type="class" begin="105" end="676" complexity="0" />
+      <CToker type="function" begin="126" end="131" complexity="1" />
+      <openFile type="function" begin="134" end="146" complexity="3" />
+      <openString type="function" begin="149" end="161" complexity="3" />
+      <close type="function" begin="164" end="167" complexity="1" />
+      <removeReturn type="function" begin="170" end="179" complexity="3" />
+      <removeReturn type="function" begin="182" end="191" complexity="3" />
+      <readLine type="function" begin="194" end="214" complexity="5" />
+      <getLine type="function" begin="227" end="256" complexity="7" />
+      <extract type="function" begin="263" end="298" complexity="9" />
+      <mapToOldDoubleQuoteStyle type="function" begin="302" end="326" complexity="7" />
+      <extractDQuote type="function" begin="330" end="360" complexity="6" />
+      <extractSQuote type="function" begin="364" end="393" complexity="6" />
+      <extractComment type="function" begin="397" end="444" complexity="9" />
+      <eatCComment type="function" begin="447" end="477" complexity="6" />
+      <IsGrammarPunctuation type="function" begin="481" end="488" complexity="3" />
+      <eatAscii type="function" begin="491" end="505" complexity="3" />
+      <eatPunctuationChar type="function" begin="508" end="513" complexity="1" />
+      <fillBuffer type="function" begin="516" end="543" complexity="8" />
+      <getTok type="function" begin="546" end="568" complexity="8" />
+      <peekNextTok type="function" begin="571" end="578" complexity="2" />
+      <pushBack type="function" begin="581" end="584" complexity="1" />
+      <Main type="function" begin="591" end="674" complexity="14" />
+    </Toker.cs>
+    <TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs />
+    <TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs />
+    <TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs />
+    <AssemblyInfo.cs />
+  </typeLocations>
+  <RelAnalysis>
+    <Aggregation fileName="Analyzer.cs" type1="CSsemi.CSemiExp" type1Name="semi" type2="Analyzer" type2Name="" lineNo="83" />
+    <Aggregation fileName="Analyzer.cs" type1="BuildParser" type1Name="builder" type2="Analyzer" type2Name="" lineNo="92" />
+    <Aggregation fileName="Analyzer.cs" type1="CSsemi.CSemiExp" type1Name="semi" type2="Analyzer" type2Name="" lineNo="135" />
+    <Aggregation fileName="Analyzer.cs" type1="BuildAnalyzer" type1Name="builder2" type2="Analyzer" type2Name="" lineNo="145" />
+    <Using fileName="Analyzer.cs" type1="class" type1Name="BuildParser" type2="rep" type2Name="" lineNo="194" />
+    <Aggregation fileName="Analyzer.cs" type1="Parser" type1Name="parser" type2="BuildParser" type2Name="" lineNo="200" />
+    <Aggregation fileName="Analyzer.cs" type1="PushStack" type1Name="push" type2="BuildParser" type2Name="" lineNo="207" />
+    <Aggregation fileName="Analyzer.cs" type1="DetectNamespace" type1Name="detectNS" type2="BuildParser" type2Name="" lineNo="210" />
+    <Aggregation fileName="Analyzer.cs" type1="DetectClass" type1Name="detectCl" type2="BuildParser" type2Name="" lineNo="215" />
+    <Aggregation fileName="Analyzer.cs" type1="DetectFunction" type1Name="detectFN" type2="BuildParser" type2Name="" lineNo="220" />
+    <Aggregation fileName="Analyzer.cs" type1="DetectAnonymousScope" type1Name="anon" type2="BuildParser" type2Name="" lineNo="225" />
+    <Aggregation fileName="Analyzer.cs" type1="DetectLeavingScope" type1Name="leave" type2="BuildParser" type2Name="" lineNo="230" />
+    <Aggregation fileName="Analyzer.cs" type1="PopStack" type1Name="pop" type2="BuildParser" type2Name="" lineNo="231" />
+    <Aggregation fileName="Analyzer.cs" type1="DetectBracelessScopes" type1Name="bScope" type2="BuildParser" type2Name="" lineNo="236" />
+    <Using fileName="Analyzer.cs" type1="class" type1Name="BuildAnalyzer" type2="repo" type2Name="" lineNo="258" />
+    <Aggregation fileName="Analyzer.cs" type1="Parser" type1Name="parser2" type2="BuildAnalyzer" type2Name="" lineNo="269" />
+    <Aggregation fileName="Analyzer.cs" type1="PushRelation" type1Name="pRel" type2="BuildAnalyzer" type2Name="" lineNo="275" />
+    <Aggregation fileName="Analyzer.cs" type1="DetectInheritance" type1Name="detectInh" type2="BuildAnalyzer" type2Name="" lineNo="278" />
+    <Aggregation fileName="Analyzer.cs" type1="DetectComposition" type1Name="detectCmp" type2="BuildAnalyzer" type2Name="" lineNo="283" />
+    <Aggregation fileName="Analyzer.cs" type1="DetectAggregation" type1Name="detectAggr" type2="BuildAnalyzer" type2Name="" lineNo="288" />
+    <Aggregation fileName="Analyzer.cs" type1="DetectUsing" type1Name="detectUse" type2="BuildAnalyzer" type2Name="" lineNo="293" />
+    <Using fileName="DisplayRepository.cs" type1="class" type1Name="DisplayRepository" type2="repArray" type2Name="" lineNo="48" />
+    <Using fileName="DisplayRepository.cs" type1="class" type1Name="DisplayRepository" type2="rep" type2Name="" lineNo="76" />
+    <Using fileName="DisplayRepository.cs" type1="class" type1Name="DisplayRepository" type2="repoArray" type2Name="" lineNo="142" />
+    <Aggregation fileName="FileMgr.cs" type1="FileMgr" type1Name="fm" type2="FileMgr" type2Name="" lineNo="92" />
+    <Using fileName="IRuleandAction.cs" type1="class" type1Name="AAction" type2="semi" type2Name="" lineNo="74" />
+    <Using fileName="IRuleandAction.cs" type1="class" type1Name="ARule" type2="semi" type2Name="" lineNo="105" />
+    <Using fileName="IRuleandAction.cs" type1="class" type1Name="ARule" type2="semi" type2Name="" lineNo="110" />
+    <Using fileName="Parser.cs" type1="class" type1Name="Parser" type2="semi" type2Name="" lineNo="65" />
+    <Aggregation fileName="Program.cs" type1="FileMgr" type1Name="fManager" type2="Program" type2Name="" lineNo="67" />
+    <Inheritence fileName="RulesAndActions.cs" type1="class" type1Name="PushRelation" type2="IRuleandAction.cs" type2Name="" lineNo="71" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="PushRelation" type2="repo" type2Name="" lineNo="76" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="PushRelation" type2="semi" type2Name="" lineNo="83" />
+    <Aggregation fileName="RulesAndActions.cs" type1="ElemForRel" type1Name="e" type2="PushRelation" type2Name="" lineNo="84" />
+    <Inheritence fileName="RulesAndActions.cs" type1="class" type1Name="PushStack" type2="IRuleandAction.cs" type2Name="" lineNo="114" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="PushStack" type2="repo" type2Name="" lineNo="119" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="PushStack" type2="semi" type2Name="" lineNo="125" />
+    <Aggregation fileName="RulesAndActions.cs" type1="Elem" type1Name="elem" type2="PushStack" type2Name="" lineNo="126" />
+    <Inheritence fileName="RulesAndActions.cs" type1="class" type1Name="PopStack" type2="IRuleandAction.cs" type2Name="" lineNo="171" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="PopStack" type2="repo" type2Name="" lineNo="175" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="PopStack" type2="semi" type2Name="" lineNo="179" />
+    <Aggregation fileName="RulesAndActions.cs" type1="CSsemi.CSemiExp" type1Name="local" type2="PopStack" type2Name="" lineNo="215" />
+    <Inheritence fileName="RulesAndActions.cs" type1="class" type1Name="PrintFunction" type2="IRuleandAction.cs" type2Name="" lineNo="234" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="PrintFunction" type2="repo" type2Name="" lineNo="238" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="PrintFunction" type2="semi" type2Name="" lineNo="242" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="PrintFunction" type2="semi" type2Name="" lineNo="250" />
+    <Inheritence fileName="RulesAndActions.cs" type1="class" type1Name="Print" type2="IRuleandAction.cs" type2Name="" lineNo="258" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="Print" type2="repo" type2Name="" lineNo="262" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="Print" type2="semi" type2Name="" lineNo="266" />
+    <Inheritence fileName="RulesAndActions.cs" type1="class" type1Name="DetectInheritance" type2="IRuleandAction.cs" type2Name="" lineNo="281" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="DetectInheritance" type2="repo" type2Name="" lineNo="285" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="DetectInheritance" type2="semi" type2Name="" lineNo="290" />
+    <Aggregation fileName="RulesAndActions.cs" type1="CSsemi.CSemiExp" type1Name="local" type2="DetectInheritance" type2Name="" lineNo="300" />
+    <Inheritence fileName="RulesAndActions.cs" type1="class" type1Name="DetectComposition" type2="IRuleandAction.cs" type2Name="" lineNo="329" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="DetectComposition" type2="repo" type2Name="" lineNo="335" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="DetectComposition" type2="semi" type2Name="" lineNo="342" />
+    <Aggregation fileName="RulesAndActions.cs" type1="CSemiExp" type1Name="local" type2="DetectComposition" type2Name="" lineNo="351" />
+    <Aggregation fileName="RulesAndActions.cs" type1="CSsemi.CSemiExp" type1Name="semiInRule" type2="DetectComposition" type2Name="" lineNo="372" />
+    <Aggregation fileName="RulesAndActions.cs" type1="CSemiExp" type1Name="local" type2="DetectComposition" type2Name="" lineNo="388" />
+    <Inheritence fileName="RulesAndActions.cs" type1="class" type1Name="DetectAggregation" type2="IRuleandAction.cs" type2Name="" lineNo="420" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="DetectAggregation" type2="repArray" type2Name="" lineNo="426" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="DetectAggregation" type2="semi" type2Name="" lineNo="432" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="DetectAggregation" type2="semi" type2Name="" lineNo="456" />
+    <Aggregation fileName="RulesAndActions.cs" type1="CSemiExp" type1Name="local" type2="DetectAggregation" type2Name="" lineNo="473" />
+    <Inheritence fileName="RulesAndActions.cs" type1="class" type1Name="DetectUsing" type2="IRuleandAction.cs" type2Name="" lineNo="501" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="DetectUsing" type2="repoArray" type2Name="" lineNo="506" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="DetectUsing" type2="semi" type2Name="" lineNo="522" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="DetectUsing" type2="semi" type2Name="" lineNo="591" />
+    <Aggregation fileName="RulesAndActions.cs" type1="CSemiExp" type1Name="local" type2="DetectUsing" type2Name="" lineNo="614" />
+    <Inheritence fileName="RulesAndActions.cs" type1="class" type1Name="DetectNamespace" type2="IRuleandAction.cs" type2Name="" lineNo="645" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="DetectNamespace" type2="semi" type2Name="" lineNo="647" />
+    <Aggregation fileName="RulesAndActions.cs" type1="CSsemi.CSemiExp" type1Name="local" type2="DetectNamespace" type2Name="" lineNo="651" />
+    <Inheritence fileName="RulesAndActions.cs" type1="class" type1Name="DetectClass" type2="IRuleandAction.cs" type2Name="" lineNo="665" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="DetectClass" type2="semi" type2Name="" lineNo="667" />
+    <Aggregation fileName="RulesAndActions.cs" type1="CSsemi.CSemiExp" type1Name="local" type2="DetectClass" type2Name="" lineNo="677" />
+    <Inheritence fileName="RulesAndActions.cs" type1="class" type1Name="DetectFunction" type2="IRuleandAction.cs" type2Name="" lineNo="691" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="DetectFunction" type2="semi" type2Name="" lineNo="701" />
+    <Aggregation fileName="RulesAndActions.cs" type1="CSsemi.CSemiExp" type1Name="local" type2="DetectFunction" type2Name="" lineNo="708" />
+    <Inheritence fileName="RulesAndActions.cs" type1="class" type1Name="DetectAnonymousScope" type2="IRuleandAction.cs" type2Name="" lineNo="721" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="DetectAnonymousScope" type2="semi" type2Name="" lineNo="723" />
+    <Aggregation fileName="RulesAndActions.cs" type1="CSsemi.CSemiExp" type1Name="local" type2="DetectAnonymousScope" type2Name="" lineNo="727" />
+    <Inheritence fileName="RulesAndActions.cs" type1="class" type1Name="DetectBracelessScopes" type2="IRuleandAction.cs" type2Name="" lineNo="742" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="DetectBracelessScopes" type2="semi" type2Name="" lineNo="744" />
+    <Aggregation fileName="RulesAndActions.cs" type1="CSsemi.CSemiExp" type1Name="local" type2="DetectBracelessScopes" type2Name="" lineNo="751" />
+    <Inheritence fileName="RulesAndActions.cs" type1="class" type1Name="DetectLeavingScope" type2="IRuleandAction.cs" type2Name="" lineNo="769" />
+    <Using fileName="RulesAndActions.cs" type1="class" type1Name="DetectLeavingScope" type2="semi" type2Name="" lineNo="771" />
+    <Composition fileName="ScopeStack.cs" type1="struct" type1Name="Elem" type2="Test" type2Name="" lineNo="125" />
+    <Aggregation fileName="ScopeStack.cs" type1="ScopeStack.Elem" type1Name="mystack" type2="Test" type2Name="" lineNo="153" />
+    <Aggregation fileName="Semi.cs" type1="CSemiExp" type1Name="copy" type2="CSemiExp" type2Name="" lineNo="396" />
+    <Aggregation fileName="Semi.cs" type1="CSemiExp" type1Name="test" type2="CSemiExp" type2Name="" lineNo="436" />
+    <Aggregation fileName="Semi.cs" type1="CSemiExp" type1Name="semi" type2="CSemiExp" type2Name="" lineNo="475" />
+    <Aggregation fileName="Toker.cs" type1="CToker" type1Name="toker" type2="CToker" type2Name="" lineNo="597" />
+  </RelAnalysis>
+</ManagedCodeAnalizer>

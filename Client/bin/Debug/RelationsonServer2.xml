@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Relations>
+  <Relation filename="IRuleandAction.cs" relation="Inheritence" type1="class" type1name="AAction" text="inherits" type2="IAction" type2name="IRuleandAction.cs" filename2="interface" />
+  <Relation filename="IRuleandAction.cs" relation="Inheritence" type1="class" type1name="ARule" text="inherits" type2="IRule" type2name="IRuleandAction.cs" filename2="interface" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="PushStack" text="inherits" type2="AAction" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="PopStack" text="inherits" type2="AAction" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="PrintFunction" text="inherits" type2="AAction" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="Print" text="inherits" type2="AAction" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectNamespace" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectClass" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectFunction" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectAnonymousScope" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectLeavingScope" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectDelegate" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="PushDelegate" text="inherits" type2="AAction" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectBracelesScope" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="PushBracelessScope" text="inherits" type2="AAction" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectInheritance" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectAggregation" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectComposition" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectUsing" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="PushRelationship" text="inherits" type2="AAction" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectOpenBraceScope" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="PushScopeInStack" text="inherits" type2="AAction" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="DetectCloseBraceScope" text="inherits" type2="ARule" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="RulesAndActions.cs" relation="Inheritence" type1="class" type1name="PopScopeFromStack" text="inherits" type2="AAction" type2name="IRuleandAction.cs" filename2="class" />
+  <Relation filename="DemoRelationships.cs" relation="Inheritence" type1="class" type1name="DerivedType" text="inherits" type2="AggregatedType" type2name="DemoRelationships.cs" filename2="class" />
+  <Relation filename="IRuleandAction.cs" relation="Inheritence" type1="class" type1name="AAction" text="inherits" type2="IAction" type2name="IRuleandAction.cs" filename2="interface" />
+  <Relation filename="IRuleandAction.cs" relation="Inheritence" type1="class" type1name="ARule" text="inherits" type2="IRule" type2name="IRuleandAction.cs" filename2="interface" />
+</Relations>

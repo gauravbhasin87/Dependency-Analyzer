@@ -1,0 +1,14 @@
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Release\Server2.exe.config
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Release\Server2.exe
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Release\Server2.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Release\CommService.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Release\Receiver.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Release\SenderProxy.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Release\TypeAnalyzer2.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Release\CommService.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Release\Receiver.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Release\SenderProxy.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Release\TypeAnalyzer2.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\obj\Release\Server2.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\obj\Release\Server2.exe
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\obj\Release\Server2.pdb

@@ -1,0 +1,2 @@
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Dependency Analyzer\bin\Debug\Dependency Analyzer.exe.config
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Dependency Analyzer\obj\Debug\Dependency Analyzer.csprojResolveAssemblyReference.cache

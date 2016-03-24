@@ -1,0 +1,6 @@
+C:\su\cse681\code\Project4HelpF13\CommClient\bin\Debug\CommClient.exe.config
+C:\su\cse681\code\Project4HelpF13\CommClient\bin\Debug\CommClient.exe
+C:\su\cse681\code\Project4HelpF13\CommClient\bin\Debug\CommClient.pdb
+C:\su\cse681\code\Project4HelpF13\CommClient\obj\Debug\CommClient.csprojResolveAssemblyReference.cache
+C:\su\cse681\code\Project4HelpF13\CommClient\obj\Debug\CommClient.exe
+C:\su\cse681\code\Project4HelpF13\CommClient\obj\Debug\CommClient.pdb

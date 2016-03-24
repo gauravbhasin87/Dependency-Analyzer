@@ -1,0 +1,7 @@
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Sender\bin\Release\SenderProxy.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Sender\bin\Release\SenderProxy.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Sender\bin\Release\CommService.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Sender\bin\Release\CommService.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Sender\obj\Release\Sender.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Sender\obj\Release\SenderProxy.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Sender\obj\Release\SenderProxy.pdb

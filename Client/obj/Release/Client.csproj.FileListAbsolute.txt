@@ -1,0 +1,12 @@
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\bin\Release\CommClient.exe.config
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\bin\Release\CommClient.exe
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\bin\Release\CommClient.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\bin\Release\CommService.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\bin\Release\Receiver.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\bin\Release\SenderProxy.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\bin\Release\CommService.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\bin\Release\Receiver.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\bin\Release\SenderProxy.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\obj\Release\CommClient.exe
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Client\obj\Release\CommClient.pdb

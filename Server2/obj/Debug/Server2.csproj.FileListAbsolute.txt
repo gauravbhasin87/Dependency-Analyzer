@@ -1,0 +1,14 @@
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Debug\Server2.exe.config
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Debug\Server2.exe
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Debug\Server2.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Debug\CommService.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Debug\Receiver.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Debug\SenderProxy.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Debug\TypeAnalyzer2.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Debug\CommService.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Debug\Receiver.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Debug\SenderProxy.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\bin\Debug\TypeAnalyzer2.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\obj\Debug\Server2.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\obj\Debug\Server2.exe
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Server2\obj\Debug\Server2.pdb

@@ -1,0 +1,26 @@
+C:\su\cse681\code\Project4HelpF13\Sender\bin\Debug\SenderProxy.dll
+C:\su\cse681\code\Project4HelpF13\Sender\bin\Debug\SenderProxy.pdb
+C:\su\cse681\code\Project4HelpF13\Sender\obj\Debug\SenderProxy.dll
+C:\su\cse681\code\Project4HelpF13\Sender\obj\Debug\SenderProxy.pdb
+C:\su\cse681\code\Project4HelpF13\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Sender\bin\Debug\SenderProxy.dll
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Sender\bin\Debug\SenderProxy.pdb
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Sender\obj\Debug\SenderProxy.dll
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Sender\obj\Debug\SenderProxy.pdb
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Sender\bin\Debug\CommService.dll
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Sender\bin\Debug\CommService.pdb
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\Sender\bin\Debug\SenderProxy.dll
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\Sender\bin\Debug\SenderProxy.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\Sender\bin\Debug\CommService.dll
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\Sender\bin\Debug\CommService.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\Sender\obj\Debug\SenderProxy.dll
+E:\MSinCS\Semester#2\SMA\Project4\Project4HelpF13\Sender\obj\Debug\SenderProxy.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Sender\bin\Debug\SenderProxy.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Sender\bin\Debug\SenderProxy.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Sender\bin\Debug\CommService.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Sender\bin\Debug\CommService.pdb
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Sender\obj\Debug\SenderProxy.dll
+E:\MSinCS\Semester#2\SMA\Project4\Dependency Analyzer\Sender\obj\Debug\SenderProxy.pdb
